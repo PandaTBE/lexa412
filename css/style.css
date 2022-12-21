@@ -220,6 +220,7 @@ a {
     background: rgba(0, 0, 0, 0.26);
 }
 .card__wrapper{
+    
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 10px;
